@@ -70,3 +70,22 @@ To determine if **positive public sentiment** toward a company's sustainability 
 - Develop interactive dashboards for stakeholders  
 
 ---
+---
+
+## 📈 Example Visualization
+
+<img width="932" alt="Screenshot 2025-04-21 at 5 14 14 PM" src="https://github.com/user-attachments/assets/5cfcd452-9fd1-460d-a070-a0ec4d7ccc0d" />
+
+
+
+
+
+<img width="920" alt="Screenshot 2025-04-21 at 5 14 42 PM" src="https://github.com/user-attachments/assets/c264107d-771a-474f-b5d2-4f734b22c4b2" />
+
+---
+
+## 📬 Contact
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sooddhruv2/)!
+
+---
